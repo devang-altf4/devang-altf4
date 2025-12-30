@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Devang 👋
 
-<!--
-**devang-altf4/devang-altf4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer | Fresher | Open to Opportunities
 
-Here are some ideas to get you started:
+I'm a passionate full-stack developer who recently completed my internship and loves building scalable web applications. Currently diving deeper into system design, data structures, and advanced full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 Featured Project
+
+### [peerly.works](https://peerly.works) 🎯
+My flagship project - a fully deployed skill marketplace platform built with modern technologies.
+
+---
+
+## 💻 Tech Stack
+
+**Frontend:** React.js, JavaScript, HTML/CSS  
+**Backend:** Node.js, Python, Java  
+**Database:** MongoDB, Firebase  
+**Advanced:** JWT Authentication, WebSockets, OAuth, Encryption
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **AI Tools:** Gemini 3, Claude 4.5, and more for enhanced productivity
+- **Version Control:** Git & GitHub
+- **Currently Learning:** Advanced Data Structures, Server Architecture, System Design
+
+---
+
+## 📊 GitHub Stats
+
+🔹 **26+ Public Repositories**  
+🔹 Multiple Private Projects  
+🔹 Active Contributor
+
+---
+
+## 📫 Let's Connect!
+
+**Email:** [maybedevang29@gmail.com](mailto:maybedevang29@gmail.com)
+
+💼 Open to full-time opportunities | 🌱 Always learning | 💡 Problem solver at heart
+
+---
+
+⭐️ Feel free to explore my repositories and don't forget to star the ones you find interesting!
