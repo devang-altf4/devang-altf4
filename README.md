@@ -15,9 +15,9 @@ My flagship project - a fully deployed skill marketplace platform built with mod
 
 ## 💻 Tech Stack
 
-**Frontend:** React.js, JavaScript, HTML/CSS  
+**Frontend:** React.js, JavaScript, HTML/CSS  , framer motion, tailwind css , bootstrap, react native , flutter , liquid.
 **Backend:** Node.js, Python, Java  
-**Database:** MongoDB, Firebase  
+**Database:** MongoDB, Firebase  ,supabase , sql , postgresql.
 **Advanced:** JWT Authentication, WebSockets, OAuth, Encryption
 
 ---
@@ -32,7 +32,7 @@ My flagship project - a fully deployed skill marketplace platform built with mod
 
 ## 📊 GitHub Stats
 
-🔹 **26+ Public Repositories**  
+🔹 **35+ Public Repositories**  
 🔹 Multiple Private Projects  
 🔹 Active Contributor
 
