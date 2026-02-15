@@ -1,49 +1,32 @@
-# Hi there, I'm Devang 👋
+# Hey, I'm Devang 👋
 
-### 🚀 Full Stack Developer | Fresher | Open to Opportunities
+Full-stack developer building scalable web apps. Open to opportunities.
 
-I'm a passionate full-stack developer who recently completed my internship and loves building scalable web applications. Currently diving deeper into system design, data structures, and advanced full-stack development.
-
----
-
-## 🌟 Featured Project
-
-### [peerly.works](https://peerly.works) 🎯
-My flagship project - a fully deployed skill marketplace platform built with modern technologies.
+**Stack:** React · Node.js · Python · MongoDB · PostgreSQL · Firebase
 
 ---
 
-## 💻 Tech Stack
+### 📊 GitHub Activity
 
-**Frontend:** React.js, JavaScript, HTML/CSS  , framer motion, tailwind css , bootstrap, react native , flutter , liquid.
-**Backend:** Node.js, Python, Java  
-**Database:** MongoDB, Firebase  ,supabase , sql , postgresql.
-**Advanced:** JWT Authentication, WebSockets, OAuth, Encryption
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devang-altf4&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devang-altf4&layout=compact&theme=transparent&hide_border=true" height="170" alt="Top Languages" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devang-altf4&theme=transparent&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
-## 🛠️ Tools & Technologies
-
-- **AI Tools:** Gemini 3, Claude 4.5, and more for enhanced productivity
-- **Version Control:** Git & GitHub
-- **Currently Learning:** Advanced Data Structures, Server Architecture, System Design
-
----
-
-## 📊 GitHub Stats
-
-🔹 **35+ Public Repositories**  
-🔹 Multiple Private Projects  
-🔹 Active Contributor
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devang-altf4&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+</p>
 
 ---
 
-## 📫 Let's Connect!
+### 🌟 Highlight
 
-**Email:** [maybedevang29@gmail.com](mailto:maybedevang29@gmail.com)
-
-💼 Open to full-time opportunities | 🌱 Always learning | 💡 Problem solver at heart
+[**peerly.works**](https://peerly.works) — A skill marketplace platform, fully deployed.
 
 ---
 
-⭐️ Feel free to explore my repositories and don't forget to star the ones you find interesting!
+📫 **maybedevang29@gmail.com**
