@@ -1,32 +1,79 @@
-# Hey, I'm Devang 👋
+<div align="center">
 
-Full-stack developer building scalable web apps. Open to opportunities.
+# Hey there, I'm Devang Gupta 👋
 
-**Stack:** React · Node.js · Python · MongoDB · PostgreSQL · Firebase
+### Full Stack Developer | 🏆 Techvanza '26 Hackathon Winner (2nd Place)
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Building+scalable+web+%26+mobile+apps;MERN+Stack+%7C+React+Native+%7C+Flutter;System+Design+Enthusiast;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devang-altf4&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devang-altf4&layout=compact&theme=transparent&hide_border=true" height="170" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devang-altf4&theme=transparent&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devang-altf4&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" />
-</p>
+</div>
 
 ---
 
-### 🌟 Highlight
-
-[**peerly.works**](https://peerly.works) — A skill marketplace platform, fully deployed.
+I'm a student at **Mumbai University** building scalable web and mobile applications.
+Currently deep-diving into **system design** and **advanced full-stack architectures** — always shipping, always learning.
 
 ---
 
-📫 **maybedevang29@gmail.com**
+### 🚀 Featured Project
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+#### 🌐 [Peerly](https://peerly.works)
+A **fully deployed skill marketplace** for students — built for real-world peer-to-peer collaboration.
+
+- 🔧 Built with the **MERN Stack** (MongoDB, Express, React, Node.js)
+- 🎨 Clean, responsive UI with Tailwind CSS
+- 🔐 Secure authentication with JWT
+- 🚀 Live at [peerly.works](https://peerly.works)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+|---|---|
+| **Frontend** | React.js · React Native · Tailwind CSS · Framer Motion · Flutter |
+| **Backend** | Node.js · Python (Django / FastAPI) · Java |
+| **Database** | MongoDB · PostgreSQL · Supabase · Firebase |
+| **DevOps / Tools** | Docker · Git · JWT / OAuth · Gemini & Claude AI |
+
+---
+
+### 📊 GitHub Activeness
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devang-altf4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devang-altf4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devang-altf4&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devang-altf4&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+📧 **Email:** [maybedevang29@gmail.com](mailto:maybedevang29@gmail.com)
+🐙 **GitHub:** [@devang-altf4](https://github.com/devang-altf4)
+
+💼 *Open to full-time roles and collaborative open-source projects.*
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=devang-altf4&style=for-the-badge&color=58a6ff" alt="Profile Views" />
+
+</div>
