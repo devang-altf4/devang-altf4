@@ -39,29 +39,14 @@ A **fully deployed skill marketplace** for students — built for real-world pee
 
 | Category | Technologies |
 |---|---|
-| **Frontend** | React.js · React Native · Tailwind CSS · Framer Motion · Flutter |
-| **Backend** | Node.js · Python (Django / FastAPI) · Java |
+| **Frontend** | React.js · React Native · Tailwind CSS · Framer Motion · Flutter |· javascript |
+| **Backend** | Node.js · Python (Django / FastAPI) · Java · websockets  |
 | **Database** | MongoDB · PostgreSQL · Supabase · Firebase |
 | **DevOps / Tools** | Docker · Git · JWT / OAuth · Gemini & Claude AI |
 
 ---
 
-### 📊 GitHub Activeness
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devang-altf4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devang-altf4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devang-altf4&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devang-altf4&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" alt="GitHub Contribution Graph" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
